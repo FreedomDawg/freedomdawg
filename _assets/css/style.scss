@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Open Sans", Myriad, Calibri, sans-serif;
+}
+
+li {
+  margin: 1em;
+  font-size: large;
+  padding-left: 1em;
+}
