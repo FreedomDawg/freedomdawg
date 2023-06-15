@@ -30,23 +30,23 @@ Stay up to date by subscribing [subscribing](https://freedomdawg.locals.com/).
 
 ### JS: Insurrection Pinball
 
-Experience the truth around the events of Jan 6 through this full-sized playable pinball table [PDF Info](/assets/files/JS Handout.pdf)
+> Experience the truth around the events of Jan 6 through this full-sized playable pinball table [PDF Info](/assets/files/JS Handout.pdf)
 
 ### OppScore Pinball
 
-A tribute to the non-partisen Opportunity Score political credit rating system from [GO USA](https://go-usa.us/)
+> A tribute to the non-partisen Opportunity Score political credit rating system from [GO USA](https://go-usa.us/)
 
 ### Freedom First Pinball
 
-COMING 2023
+> COMING 2023
 
 ### The Great Reset Pinball
 
-PLANNED
+> PLANNED
 
-### Woke Pinball
+### Woke! Pinball
 
-PLANNED
+> PLANNED
 
 ---
 
