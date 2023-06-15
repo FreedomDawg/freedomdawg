@@ -28,7 +28,7 @@ Stay up to date by subscribing [subscribing](https://freedomdawg.locals.com/).
 
 # Open Virtual Pinball Games - Free to Play
 
-### JS: Insurrection Pinball
+### J6: Insurrection Pinball
 
 > Experience the truth around the events of Jan 6 through this full-sized playable pinball table [PDF Info](/assets/files/JS Handout.pdf)
 
