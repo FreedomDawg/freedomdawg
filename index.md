@@ -26,7 +26,11 @@ Stay up to date by subscribing [subscribing](https://freedomdawg.locals.com/).
 
 ---
 
-# Open Virtual Pinball Games - Free to Play
+# Virtual Pinball Games
+
+"Fighting the culture wars with balls of steel"
+
+Virtual pinball games are free, open source, non-commercial projects. For education and entertainment only. Please contact me about download details for personal use.
 
 ### J6: Insurrection Pinball
 
