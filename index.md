@@ -32,9 +32,12 @@ Stay up to date by subscribing [subscribing](https://freedomdawg.locals.com/).
 
 Virtual pinball games are free, open source, non-commercial projects. For education and entertainment only. Please contact me about download details for personal use.
 
-### J6: Insurrection Pinball
+### [J6: Insurrection Pinball](./j6insurrection_pinball.html)
 
-> Experience the truth around the events of Jan 6 through this full-sized playable pinball table [PDF Info](/assets/files/JS Handout.pdf)
+> Experience the truth around the events of Jan 6 through this full-sized playable pinball table 
+
+[Learn More](./j6insurrection_pinball.html) details and download
+
 
 ### OppScore Pinball
 
