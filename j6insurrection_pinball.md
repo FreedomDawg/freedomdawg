@@ -10,6 +10,9 @@ The game offers a unique immersive experience that includes live recordings by a
 
 ### Experience the truth around the events of Jan 6 through this full-sized playable digital pinball table
 
+<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v3qouis/?pub=29w4db" frameborder="0" allowfullscreen></iframe>
+
+
 ![screenshot](/assets/images/J6Insurrection Pinball screenshot.png)
 
 * [PDF Info](/assets/files/JS Handout.pdf)
