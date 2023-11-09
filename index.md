@@ -28,32 +28,30 @@ Stay up to date by subscribing [subscribing](https://freedomdawg.locals.com/).
 
 # Virtual Pinball Games
 
-"Fighting the culture wars with balls of steel"
+> "Fighting the culture wars with balls of steel"
 
-Virtual pinball games are free, open source, non-commercial projects. For education and entertainment only. Please contact me about download details for personal use.
+> Virtual pinball games are free, open source, non-commercial projects. For education and entertainment only. Please contact me about download details for personal use.
 
-### [J6: Insurrection Pinball](./j6insurrection_pinball.html)
+## [J6: Insurrection Pinball](./j6insurrection_pinball.html) ##
 
 > Experience the truth around the events of Jan 6 through this full-sized playable pinball table 
 
-[Learn More](./j6insurrection_pinball.html) details and download
+> [Learn More](./j6insurrection_pinball.html) details and download
 
 
-### OppScore Pinball
+## OppScore Pinball
 
 > A tribute to the non-partisen Opportunity Score political credit rating system from [GO USA](https://go-usa.us/)
 
-### Freedom First Pinball
+> [Download files](https://drive.google.com/open?id=1-NqXJGA4vKT2guQFSnyx8PZGBr89Swn1&usp=drive_fs)
 
-> COMING 2023
+## What's Next?
+What pinball game would you like me to build next? Send me a note.
 
-### The Great Reset Pinball
+* Freedom First Pinball
+* The Great Reset Pinball
+* Woke! Pinball
 
-> PLANNED
-
-### Woke! Pinball
-
-> PLANNED
 
 ---
 

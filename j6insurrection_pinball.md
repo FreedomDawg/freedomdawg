@@ -10,6 +10,8 @@ The game offers a unique immersive experience that includes live recordings by a
 
 ### Experience the truth around the events of Jan 6 through this full-sized playable digital pinball table
 
+## [Download Game Files](https://drive.google.com/open?id=1-4TTwENX0uT4GfNnp1fkNy2gPNb6QrIf&usp=drive_fs) (Requires Visual Pinball to run)
+
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v3qouis/?pub=29w4db" frameborder="0" allowfullscreen></iframe>
 
 
@@ -19,7 +21,7 @@ The game offers a unique immersive experience that includes live recordings by a
 * [Download Game Files](https://drive.google.com/open?id=1-4TTwENX0uT4GfNnp1fkNy2gPNb6QrIf&usp=drive_fs) (Requires Visual Pinball to run)
 
 
-THIS IS NOT A COMMERCIAL PRODUCT. IT IS FREE TO DOWNLOAD> FOR PERSONAL USE ONLY AND NOT FOR COMMERCIAL SALE OR DISTRIBUTION. 
+THIS IS NOT A COMMERCIAL PRODUCT. IT IS FREE TO DOWNLOAD. FOR PERSONAL USE ONLY AND NOT FOR COMMERCIAL SALE OR DISTRIBUTION. 
 
 ## RULES
 
