@@ -12,8 +12,11 @@ The game offers a unique immersive experience that includes live recordings by a
 
 ## [Download Game Files](https://drive.google.com/open?id=1-4TTwENX0uT4GfNnp1fkNy2gPNb6QrIf&usp=drive_fs) (Requires Visual Pinball to run)
 
+### Gameplay video
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v3qouis/?pub=29w4db" frameborder="0" allowfullscreen></iframe>
 
+* [Rumble](https://rumble.com/v3ta8d1-j6-insurrection-pinball-game.html) 
+* [YouTube](https://youtu.be/9W2yJ789VsA)
 
 ![screenshot](/assets/images/J6Insurrection Pinball screenshot.png)
 
