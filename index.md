@@ -2,59 +2,59 @@
 layout: default
 ---
 
-![Freedom Dawg](/assets/images/FreedomDawg-Wheel-b.gif)
-
-# HELP SUPPORT FREEDOM DAWG!
-
-### [JOIN LOCALS COMMUNITY](https://freedomdawg.locals.com/)
-
-# Help me take the pinball games on tour around the USA:
-
-### [BECOME A PATRON](https://freedomdawg.locals.com/) or [DONATE ONCE](https://freedomdawg.locals.com/)
-
----
-
-_Site Under Construction_
-
----
-
-Stay tuned for more details about the Freedom Dawg projects.
-
-Join me at upcoming events.
-
-Stay up to date by subscribing [subscribing](https://freedomdawg.locals.com/).
-
----
 
 # Virtual Pinball Games
 
-> "Fighting the culture wars with balls of steel"
+---
 
-> Virtual pinball games are free, open source, non-commercial projects. For education and entertainment only. Please contact me about download details for personal use.
+## [American Country Pinball](./american_country.html) ##
 
-## [J6: Insurrection Pinball](./j6insurrection_pinball.html) ##
+<img src="/assets/images/American Country Wheel.png" width="150" style="display:inline-block; margin: 0 20px 20px 0; float: left" />
 
-> Experience the truth around the events of Jan 6 through this full-sized playable pinball table 
 
-> [Learn More](./j6insurrection_pinball.html) details and download
+
+Country Music themed pinball game [PREVIEW]
+
+[Learn More](./american_country.html) details and downloads
+
+[Download files](https://drive.google.com/drive/folders/1-VoNftldPia2Saa8KMNMM_k9wLM42iLF?usp=drive_link)
+
+Includes 12+ full country music songs!
+
+<hr style="clear: left" />
+
+
+## [J6 Insurrection Pinball](./j6insurrection_pinball.html) ##
+
+<img src="/assets/images/J6 Insurrection.png" width="150"  style="display:inline-block; margin: 0 20px 20px 0; float: left" />
+
+Experience the truth around the events of Jan 6 through this playable pinball table 
+
+[Learn More](./j6insurrection_pinball.html) details and downloads
+
+[Download files](https://drive.google.com/open?id=1-4TTwENX0uT4GfNnp1fkNy2gPNb6QrIf&usp=drive_fs)
+
+Trump fans will love it!
+
+<hr style="clear: left" />
 
 
 ## OppScore Pinball
 
-> A tribute to the non-partisen Opportunity Score political credit rating system from [GO USA](https://go-usa.us/)
+<img src="/assets/images/OppScore Pinball.png" width="150" style="display:inline-block; margin: 0 20px 20px 0; float: left" />
 
-> [Download files](https://drive.google.com/open?id=1-NqXJGA4vKT2guQFSnyx8PZGBr89Swn1&usp=drive_fs)
+A tribute to the non-partisen Opportunity Score political credit rating system from [GO USA](https://go-usa.us/)
 
-## What's Next?
-What pinball game would you like me to build next? Send me a note.
-
-* Freedom First Pinball
-* The Great Reset Pinball
-* Woke! Pinball
+[Download files](https://drive.google.com/open?id=1-NqXJGA4vKT2guQFSnyx8PZGBr89Swn1&usp=drive_fs)
 
 
+<hr style="clear: left" />
 ---
 
-Contact: freedomdawg76@gmail.com
+Contact: [freedomdawg76@gmail.com](mailto:freedomdawg76@gmail.com)
 
-Follow @FreedomDawg on Instagram, FB, Twitter, Rumble
+
+> "Fighting the culture wars with balls of steel"
+
+
+Virtual pinball games are free, open source, non-commercial projects. Please contact me about download details for personal use.
