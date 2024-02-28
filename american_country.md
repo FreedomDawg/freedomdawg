@@ -9,7 +9,7 @@ This American Country Pinball table is a re-skin of AC/DC LUCI (Stern 2013) VPin
 I chose the AC/DC table for my Country Music mod for many reasons. I love the gameplay but sometimes I’m not in the mood for hard AC/DC music. Overall I've tried to mellow out the game with Country Music and related sound effects while keeping the intense gameplay dynamics. I replaced the comical “abusive” AC/DC voice prompts with AI generated Johnny Cash voices. The toys map well to Country Music themes: Hells Bell to Liberty Bell, train to pickup truck, cannon to gun and so on. In the minigame the metaphor is you fight for Freedom instead of against the Devil. Instead of a Jukebox, there’s a Playlist with selected songs arranged as twelve different tags that span the themes found in Country Music. As a bonus I provide instructions to replace the Playlist with your own favorite songs.
 
 
-## [Download Game Files](https://drive.google.com/drive/folders/1-VoNftldPia2Saa8KMNMM_k9wLM42iLF?usp=drive_link) (Requires Visual Pinball to run)
+## [Download Game Files](https://vpuniverse.com/files/file/18381-american-country-vpx/) (Requires Visual Pinball to run)
 
 ![screenshot](/assets/images/American Country screenshot freedom.png)
 

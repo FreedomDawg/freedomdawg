@@ -13,11 +13,11 @@ layout: default
 
 
 
-Country Music themed pinball game [PREVIEW]
+Country Music themed pinball game 
 
 [Learn More](./american_country.html) details and downloads
 
-[Download files](https://drive.google.com/drive/folders/1-VoNftldPia2Saa8KMNMM_k9wLM42iLF?usp=drive_link)
+[VPUniverse download](https://vpuniverse.com/files/file/18381-american-country-vpx/)
 
 Includes 12+ full country music songs!
 
