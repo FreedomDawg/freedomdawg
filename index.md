@@ -2,8 +2,24 @@
 layout: default
 ---
 
+# Custom Games and Pinball Cabinets
 
-# Virtual Pinball Games
+<img src="/assets/images/FreedomDawgBuilds.png" width="250" style="display:inline-block; margin: 0 20px 20px 0; float: left" />
+
+Unlock the power of play! Score your success with a custom pinball game. It isn’t just entertainment—it’s a strategic move.
+
+For business. For personal. 
+
+[Learn More](./custom_games.html)
+
+Brand amplification. Memorable milestones. Engagement magnet. Nostalgic impact.
+
+Custom game development. Digital pinball cabinet assembly. Support services. Buy or rent.
+
+
+<hr style="clear: left; margin: 4em 0" />
+
+# Free Virtual Pinball Games
 
 ---
 
