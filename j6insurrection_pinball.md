@@ -26,21 +26,22 @@ The game offers a unique immersive experience that includes live recordings by a
 
 THIS IS NOT A COMMERCIAL PRODUCT. IT IS FREE TO DOWNLOAD. FOR PERSONAL USE ONLY AND NOT FOR COMMERCIAL SALE OR DISTRIBUTION. 
 
-## In The News - CPAC 24
+# In The News - CPAC '24
 
 ### Gameplay Interview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QAt7HCqhE_o?si=6IjqXhGGeNZddr_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ### Viral Posts
 
-* [@CateMartel First virral post](https://twitter.com/CateMartel/status/1760711946741916000)
+* [@CateMartel First Viral Post From CPAC](https://twitter.com/CateMartel/status/1760711946741916000)
 * [@CateMartel Explainer Video](https://twitter.com/CateMartel/status/1760712932051096054)
-* [@benjacobs Most views](https://twitter.com/Bencjacobs/status/1760699941242990693?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1760699941242990693%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=notion%3A%2F%2Fwww.notion.so%2FNotes-6f84d888526a4baa9574b573156f1608%3Fp%3D7e60b63238014e77a90775b6121f4fb4pm%3Ds)
+* [@benjacobs Most Views](https://twitter.com/Bencjacobs/status/1760699941242990693?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1760699941242990693%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=notion%3A%2F%2Fwww.notion.so%2FNotes-6f84d888526a4baa9574b573156f1608%3Fp%3D7e60b63238014e77a90775b6121f4fb4pm%3Ds)
 * [@HannahMuldavin Dismay from J6 Committee spokesperson](https://twitter.com/HannahMuldavin/status/1760708687671296328?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1760708687671296328%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=notion%3A%2F%2Fwww.notion.so%2FNotes-6f84d888526a4baa9574b573156f1608%3Fp%3D7e60b63238014e77a90775b6121f4fb4pm%3Ds)
 
 
-## RULES
+# RULES
 
 Work through each Rally mode: 
 
@@ -61,7 +62,7 @@ Earn bonuses for _Free Speech_ and _Don't Tread on Me_. Aim to defeat _Voter Fra
 * Rally Modes: Outer loops light Rally hole. Shooting Rally when lit awards flashing Rally Mode.
 * Influencer: Watch display & select instant Follower points (left flipper) or load Camera (right) to shoot flashing State targets. 
 
-## ABOUT
+# ABOUT
 
 I first made this table in 2022 as a personal project and have brought it to various public events as a free to play, interactive exhibit on my portable tabletop pinball cabinet. I've had many requests to make it generally available so i worked on it some more and packaged it for [download from my public drive](https://drive.google.com/open?id=1-4TTwENX0uT4GfNnp1fkNy2gPNb6QrIf&usp=drive_fs)
 
