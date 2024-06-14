@@ -23,10 +23,29 @@ Custom game development. Digital pinball cabinet assembly. Support services. Buy
 
 ---
 
+<!-- ## [Atlas Shrugged Pinball](./atlas_shrugged.html) ## -->
+## Atlas Shrugged Pinball (COMING SOON)
+
+<img src="/assets/images/atlas shrugged wheel.png" width="150" style="display:inline-block; margin: 0 20px 20px 0; float: left" />
+
+
+For fans of the Ayn Rand libertarian science fiction novel, Atlas Shrugged. Experience key elements of the story and profound quotes from Atlas Shrugged. 
+
+WARNING: May include spoilers.
+
+<!-- [Learn More](./american_country.html) details and downloads -->
+
+<!-- [VPUniverse download](https://vpuniverse.com/files/file/18381-american-country-vpx/) -->
+
+<!-- Includes 12+ full country music songs! -->
+
+<hr style="clear: left" />
+
+
+
 ## [American Country Pinball](./american_country.html) ##
 
 <img src="/assets/images/American Country Wheel.png" width="150" style="display:inline-block; margin: 0 20px 20px 0; float: left" />
-
 
 
 Country Music themed pinball game 
@@ -36,6 +55,7 @@ Country Music themed pinball game
 [VPUniverse download](https://vpuniverse.com/files/file/18381-american-country-vpx/)
 
 Includes 12+ full country music songs!
+
 
 <hr style="clear: left" />
 
