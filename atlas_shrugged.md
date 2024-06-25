@@ -16,8 +16,7 @@ This Atlas Shrugged Pinball table is a re-skin of Star Trek LE (Stern 2013) JP's
 <!-- ## [Download Game Files](https://vpuniverse.com/files/file/18381-american-country-vpx/) (Requires Visual Pinball to run) -->
 ## DOWNLOAD LINK COMING SOON
 
-
-![screenshot](assets\images\Atlas Shrugged cab photo 1.png)
+<img src="/assets/images/Atlas Shrugged cab photo 1.png" width="50%" />
 
 FOR PERSONAL USE ONLY AND NOT FOR COMMERCIAL SALE OR DISTRIBUTION. 
 
