@@ -2,30 +2,45 @@
 layout: default
 ---
 
-# American Country Pinball Game
+# Atlas Shrugged Pinball
 
-This American Country Pinball table is a re-skin of AC/DC LUCI (Stern 2013) VPinWorkshop version 1.1. Original table by Stern Pinball.
+Compete to build rational self-interest and defeat collectivism, shrug the Atlas, and recruit creative leaders to take the John Galt Oath. Yes, those are rules of the Atlas Shrugged Pinball game. For Ayn Rand fans of all ages. 
 
-I chose the AC/DC table for my Country Music mod for many reasons. I love the gameplay but sometimes I’m not in the mood for hard AC/DC music. Overall I've tried to mellow out the game with Country Music and related sound effects while keeping the intense gameplay dynamics. I replaced the comical “abusive” AC/DC voice prompts with AI generated Johnny Cash voices. The toys map well to Country Music themes: Hells Bell to Liberty Bell, train to pickup truck, cannon to gun and so on. In the minigame the metaphor is you fight for Freedom instead of against the Devil. Instead of a Jukebox, there’s a Playlist with selected songs arranged as twelve different tags that span the themes found in Country Music. As a bonus I provide instructions to replace the Playlist with your own favorite songs.
+Atlas Shrugged Pinball is a free-to-play open-sourced art project.Free to download. Not a commercial product. Not affiliated with any other property owner.
+
+ Requires Visual Pinball 10.7+ free software.
+
+This Atlas Shrugged Pinball table is a re-skin of Star Trek LE (Stern 2013) JP's version 4.3.1. Original table by Stern Pinball.
 
 
-## [Download Game Files](https://vpuniverse.com/files/file/18381-american-country-vpx/) (Requires Visual Pinball to run)
+<!-- ## [Download Game Files](https://vpuniverse.com/files/file/18381-american-country-vpx/) (Requires Visual Pinball to run) -->
+## DOWNLOAD LINK COMING SOON
 
-## [NEW: Deplorable Patriot Playlist custom rom. DOWNLOAD](https://drive.google.com/file/d/10zXe5K4Hn-64CO3gXWhaQywX0cFf3p6u/view?usp=drive_link) (Rename to acd_170hc.zip)
 
-![screenshot](/assets/images/American Country screenshot freedom.png)
+![screenshot](assets\images\Atlas Shrugged cab photo 1.png)
 
 FOR PERSONAL USE ONLY AND NOT FOR COMMERCIAL SALE OR DISTRIBUTION. 
 
+## Videos
+### Debut at PorcFest 2024 (Libertarian Freedom Feastival) in New Hampshire
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/itMSZAqhyn8?si=6GokdPftmGTCq9oi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Atlas Shrugged Pinball Gameplay Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nxo292zmDEc?si=5d5tbHbLAMsMLQUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## Requirements
 
-* VisualPinball VPX 10.7.4 or 10.8
-* ROM: customized version of the acd_170hc ROM
+* VisualPinball VPX 10.7.4 or VPX 10.8
+* ROM: customized version of the st_162.zip ROM
 * Altcolor: serum
 
 Due to a bug in VPinMAME 64bit I recommend using a 32bit version of Visual Pinball (DMD can freeze).
 
-## Downloads
+<!-- ## Downloads
 
 https://drive.google.com/open?id=1-VoNftldPia2Saa8KMNMM_k9wLM42iLF&usp=drive_fs 
 
@@ -39,9 +54,9 @@ Installation is like any other Visual Pinball game:
 
 * Put the “American Country.vpx” and .directb2s files into your Visual Pinball\Tables\ folder
 * Put the acd_170hc.zip ROM file in the Visual Pinball\VPinMAME\roms\ folder
-* Put the acd_170hc.cSZ Serum file in the Visual Pinball\VPinMAME\altcolor\acd_170hc\ folder
+* Put the acd_170hc.cSZ Serum file in the Visual Pinball\VPinMAME\altcolor\acd_170hc\ folder -->
 
-## Custom ROM
+<!-- ## Custom ROM
 
 The American Country VPX pinball game requires a custom version of the acd_170h ROM named acd_170hc. (This is NOT the same as the acd_170hc color DMD one you might find elsewhere, I’m just repurposing the file name). Legally you need to make this yourself, although I’ve provided a pre-made one for your reference in the downloads. See the CUSTOM ROM readme file for details and instructions. 
 
@@ -157,8 +172,8 @@ Other features remain the same: Note arrows, 2X, 3X, VIP Passes Skill shots.
 
 ## Rules
 
-For a full AC/DC Rule Sheet see http://bit.ly/acdcrulesheet and https://pinside.com/pinball/forum/topic/acdc-rules-condensed-version 
+For a full AC/DC Rule Sheet see http://bit.ly/acdcrulesheet and https://pinside.com/pinball/forum/topic/acdc-rules-condensed-version  -->
 
 ## Changelog
-12/28/2023	Preview 1 Release
+Jun 19, 2024 Preview 1 Release
 
