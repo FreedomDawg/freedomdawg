@@ -33,11 +33,9 @@ For fans of the Ayn Rand libertarian science fiction novel, Atlas Shrugged. Expe
 
 WARNING: May include spoilers.
 
-<!-- [Learn More](./american_country.html) details and downloads -->
+[Learn More](./atlas_shrugged.html) details and downloads
 
 <!-- [VPUniverse download](https://vpuniverse.com/files/file/18381-american-country-vpx/) -->
-
-<!-- Includes 12+ full country music songs! -->
 
 <hr style="clear: left" />
 
