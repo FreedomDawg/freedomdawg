@@ -23,15 +23,12 @@ Custom game development. Digital pinball cabinet assembly. Support services. Buy
 
 ---
 
-<!-- ## [Atlas Shrugged Pinball](./atlas_shrugged.html) ## -->
-## Atlas Shrugged Pinball (COMING SOON)
+## [Atlas Shrugged Pinball](./atlas_shrugged.html) ##
 
 <img src="/assets/images/atlas shrugged wheel.png" width="150" style="display:inline-block; margin: 0 20px 20px 0; float: left" />
 
 
 For fans of the Ayn Rand libertarian science fiction novel, Atlas Shrugged. Experience key elements of the story and profound quotes from Atlas Shrugged. 
-
-WARNING: May include spoilers.
 
 [Learn More](./atlas_shrugged.html) details and downloads
 
